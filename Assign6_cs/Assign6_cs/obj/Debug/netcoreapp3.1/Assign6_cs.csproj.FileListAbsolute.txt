@@ -1,0 +1,11 @@
+C:\Users\abhis\source\repos\Assign6_cs\Assign6_cs\bin\Debug\netcoreapp3.1\Assign6_cs.exe
+C:\Users\abhis\source\repos\Assign6_cs\Assign6_cs\bin\Debug\netcoreapp3.1\Assign6_cs.deps.json
+C:\Users\abhis\source\repos\Assign6_cs\Assign6_cs\bin\Debug\netcoreapp3.1\Assign6_cs.runtimeconfig.json
+C:\Users\abhis\source\repos\Assign6_cs\Assign6_cs\bin\Debug\netcoreapp3.1\Assign6_cs.runtimeconfig.dev.json
+C:\Users\abhis\source\repos\Assign6_cs\Assign6_cs\bin\Debug\netcoreapp3.1\Assign6_cs.dll
+C:\Users\abhis\source\repos\Assign6_cs\Assign6_cs\bin\Debug\netcoreapp3.1\Assign6_cs.pdb
+C:\Users\abhis\source\repos\Assign6_cs\Assign6_cs\obj\Debug\netcoreapp3.1\Assign6_cs.csprojAssemblyReference.cache
+C:\Users\abhis\source\repos\Assign6_cs\Assign6_cs\obj\Debug\netcoreapp3.1\Assign6_cs.AssemblyInfoInputs.cache
+C:\Users\abhis\source\repos\Assign6_cs\Assign6_cs\obj\Debug\netcoreapp3.1\Assign6_cs.AssemblyInfo.cs
+C:\Users\abhis\source\repos\Assign6_cs\Assign6_cs\obj\Debug\netcoreapp3.1\Assign6_cs.dll
+C:\Users\abhis\source\repos\Assign6_cs\Assign6_cs\obj\Debug\netcoreapp3.1\Assign6_cs.pdb
